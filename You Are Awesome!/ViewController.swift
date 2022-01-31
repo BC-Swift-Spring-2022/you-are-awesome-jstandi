@@ -30,6 +30,8 @@ class ViewController: UIViewController {
         imageView.image = UIImage(named: chosenImage)
         messageLabel.text = chosenMessage
         
+//      update for github push
+        
     }
     
 }
